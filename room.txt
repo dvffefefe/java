@@ -1,3 +1,5 @@
 public class Room{
 public static viod main(String args[]){
-system.in
+system.out.println(ROOM");
+}
+}
