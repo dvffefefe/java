@@ -1,0 +1,3 @@
+public class Room{
+public static viod main(String args[]){
+system.in
